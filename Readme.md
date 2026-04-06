@@ -1,4 +1,11 @@
 # Internship: 
+## Sucess Stories
+<img width="574" height="455" alt="image" src="https://github.com/user-attachments/assets/010476a4-8ceb-4217-bd84-ca96ee829c4e" />
+<img width="1360" height="259" alt="image" src="https://github.com/user-attachments/assets/5c0c4f3f-8cac-445f-8b04-9915936c2f93" />
+<img width="697" height="839" alt="image" src="https://github.com/user-attachments/assets/c4f747eb-a67a-4109-86a4-c751e6d8f498" />
+
+
+
 ## Oboarding Task: 
 1. Fork this repo
 2. Create a folder with your name containing a .py file that uses selenium to scrape google search results.
