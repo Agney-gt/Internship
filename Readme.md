@@ -8,8 +8,11 @@
 
 ## Oboarding Task: 
 1. Fork this repo
-2. Create a folder with your name containing a .py file that uses selenium to scrape google search results.
+2. Create a folder with your name containing a .py file that uses selenium to scrape google search results and output a csv.
 3. Create a pull request
+4. Include a loom video explaining the code you (or chatGPT) wrote and demonstrate the full workflow: Selenium opens google search -> scrapes listings -> generates csv -> verify csv has all the data.
+
+Applications without loom video or equivalent video will not be considered.
 
 ## Training 1: 
 
